@@ -1,0 +1,2 @@
+# Design-and-Evaluation-of-a-Momentum-and-True-Range-Based-Trading-Strategy-for-U.S.-Equity-Markets
+This project designs and evaluates a momentum and true range-based trading strategy for U.S. equity markets. It involves rolling-window momentum calculation, exponentially weighted moving averages (EWMA), and portfolio optimization techniques. Performance is assessed using CAPM, Fama-French, and risk-adjusted metrics like Sharpe ratio
